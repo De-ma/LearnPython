@@ -1,5 +1,5 @@
 # Getting Started w/ Python!
-
+![Python](https://github.com/De-ma/LearnPython/blob/master/assets/1Qv.gif)
 ## Fun Facts about Python 🐍
 
 ## Installation ⏳
