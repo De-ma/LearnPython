@@ -1,5 +1,6 @@
 # Getting Started w/ Python! 
 
+## Fun Facts about Python 🐍
 
 ## Installation ⏳
 
